@@ -20,6 +20,7 @@ If you have any questions about this or participating in Hacktoberfest, please c
 
 Happy Hacking,
 The Hacktoberfest Team
+Digital Ocean
 
 Hacktoberfest is presented by DigitalOcean, Intel and DEV.
 
